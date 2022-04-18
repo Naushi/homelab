@@ -37,4 +37,6 @@ services:
 TODO:
 - Optional lists in the whitelist 
 - https://github.com/jacklul/pihole-updatelists
+- https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+- https://github.com/kboghdady/youTube_ads_4_pi-hole
 - DHCP?
